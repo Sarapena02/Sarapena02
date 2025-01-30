@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer from Colombia</h3>
 <img align= "right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
-- 🔭 I’m currently working on **Procesamiento de Datos a Gran Escala**
+- 🔭 I’m currently working on **Proyecto de Grado I-Wellness**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sarapena02](https://github.com/Sarapena02)
 
